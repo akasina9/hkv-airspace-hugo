@@ -1,7 +1,7 @@
 ---
 title: AndOR
 description: this is meta description
-image: images/portfolio/work5.jpg
+image: "/images/andor-logo.png"
 bg_image: images/feature-bg.jpg
 category: Illustration
 information:
