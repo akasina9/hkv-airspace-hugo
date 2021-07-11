@@ -1,7 +1,7 @@
 ---
 title: Fashioniza
 description: this is meta description
-image: images/portfolio/work4.jpg
+image: "/images/screenshot-2021-07-11-at-5-33-52-pm.png"
 bg_image: images/feature-bg.jpg
 category: UI/UX Design
 information:
