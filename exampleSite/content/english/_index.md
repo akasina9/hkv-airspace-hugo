@@ -3,8 +3,7 @@ banner:
   enable: true
   bg_image: images/slider-bg.jpg
   bg_overlay: true
-  title: 'A top class early investment fund led by proven industry leaders across
-    APAC '
+  title: 'A top class early investment fund led by industry leaders across APAC '
   content: We love startups and the work we do. We work closely with our portfolio
     companies to help them grow valuable.
   button:
@@ -27,7 +26,7 @@ about:
 portfolio:
   enable: true
   bg_image: images/feature-bg.jpg
-  title: WE BELIEVE IN GREAT IDEAS
+  title: WE INVEST IN GREAT IDEAS
   content: " Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur
     ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris
     condimentum nibh, ut fermentum massa justo sit amet risus.\n\nMaecenas faucibus
@@ -38,12 +37,12 @@ portfolio:
     tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. "
   button:
     enable: true
-    label: View Works
-    link: project
+    label: View companies
+    link: portfolio
 service:
-  enable: true
+  enable: false
 cta:
-  enable: true
+  enable: false
   bg_image: images/call-to-action-bg.jpg
   title: We design delightful digital experiences.
   content: Read more about what we do and our philosophy of design. Judge for yourself
@@ -54,7 +53,7 @@ cta:
     label: Tell Us Your Story
     link: contact
 funfacts:
-  enable: true
+  enable: false
   title: Fun Facts About Us
   description: "'Far far away, behind the word mountains, far from the countries Vokalia
     and Consonantia, <br> there live the blind texts. Separated they live in Bookmarksgrove
