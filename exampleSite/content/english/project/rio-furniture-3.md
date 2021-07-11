@@ -1,7 +1,7 @@
 ---
 title: Expertrons
 description: this is meta description
-image: images/portfolio/work3.jpg
+image: "/images/logo_website-expertrons.svg"
 bg_image: images/feature-bg.jpg
 category: Video
 information:
