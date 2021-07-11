@@ -1,7 +1,7 @@
 ---
-title: LDU
+title: Let's Dress Up
 description: this is meta description
-image: images/portfolio/work6.jpg
+image: "/images/logo-letsdressup-invoice-png.webp"
 bg_image: images/feature-bg.jpg
 category: Video
 information:
@@ -19,7 +19,7 @@ information:
   info: Jannie Kelonsky
 
 ---
-## LDU
+## Let's Dress Up
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta necessitatibus
 reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate
